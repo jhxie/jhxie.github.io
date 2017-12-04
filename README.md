@@ -1,6 +1,13 @@
 # Jiahui Xie
-Homepage for hosting PGP Key.
+Homepage for hosting PGP Keypair and BitCoin Address.
 
+## PGP Keypair
+The master keypair is used for signing commits and tags created
+by *Git* version control system; you can contact me with the
+*e-mail* address attached in the keypair (encrypt your message
+using the imported subkey if you feel inclined, and remember you
+have to verify the key fingerprint with me in person before
+doing so).
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
@@ -55,3 +62,11 @@ Qxwxn5r/2X9lFmlZqPMZsEvv4jYDwDjbEz/h1Epw29qsoFZTIhBwQrhQdIna7fxy
 =D9X2
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+## BitCoin Address
+The BitCoin address is available in the forms of *plain text*
+and *QR Code*.
+```
+3DV2c8etcLYtUDe36jCCK4czQk4UhABGdN
+```
+![bitcoin-address-qr](images/bitcoin-address-qr.png)
