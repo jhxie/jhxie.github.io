@@ -1,0 +1,8 @@
+title: Jiahui Xie
+description: Homepage for hosting PGP Key.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
